@@ -88,3 +88,5 @@ In our counter app, pressing the button updates only the count text, not the ent
 ## Video Explanation
 
 [Link to Google Drive video]
+# Assignment Submission Note
+This branch contains the completed Flutter & Dart fundamentals assignment.
